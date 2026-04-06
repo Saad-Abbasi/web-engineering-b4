@@ -1,0 +1,33 @@
+#div1{
+    background-color: aqua;
+    height: 400px;
+    width: 400px;
+    padding: 20px 0px 0px 10px;
+    border: 2px solid red;
+    margin: 0px 0px 20px 0px;
+}
+
+#div2{
+    background-color: yellow;
+    height: 400px;
+    width: 400px;
+}
+
+
+
+
+
+
+
+
+h2 {
+    color: red;
+    background-color: yellow;
+    font-size: larger;
+}
+
+#p1 {
+    color: green;
+    background-color: yellow;
+    font-size: larger;
+}

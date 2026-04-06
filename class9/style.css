@@ -1,0 +1,50 @@
+.container{
+    width: 800px;
+    margin: 0 auto;
+    background-color: darkgray;
+}
+.header{
+    display: flex;
+    border-bottom: 5px solid burlywood;
+}
+
+.div1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    
+}
+.div2{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    
+}
+.div3{
+    width: 200px;
+    height: 200px;
+    background-color: greenyellow;
+    margin-left: 200px;
+    text-align: right;
+    padding-right: 20px;
+    
+}
+
+/* Personal profile starts here  */
+.p-profile{
+    display:flex;
+
+}
+
+.pl{
+    width: 300px;
+    height: 300px;
+    background-color: gray;
+}
+
+.pr{
+    width: 500px;
+    height: 300px;
+    background-color: navy;
+    color: white;
+}
