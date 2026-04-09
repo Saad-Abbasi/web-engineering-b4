@@ -1,5 +1,8 @@
 
 
+
+
+
 // Console Text 
 console.log(document.getElementById("id01").firstChild.nodeValue)
 
